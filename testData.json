@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "label": "报告一",
+    "children": [
+      {
+        "id": "1.1",
+        "label": "战术一",
+        "form": {
+          "name": "海战突围",
+          "time": "July 30th 2022,10:13:16 am",
+          "userName": "海军空军",
+          "region": "guangzhou",
+          "delivery": false,
+          "type": []
+        }
+      },
+      {
+        "id": "1.2",
+        "label": "战术二",
+        "form": {
+          "name": "包围",
+          "time": "July 30th 2022,10:15:24 am",
+          "userName": "陆军",
+          "region": "shenzhen",
+          "delivery": false
+        }
+      },
+      {
+        "id": "1.3",
+        "label": "战术三",
+        "form": {
+          "name": "冲锋",
+          "time": "July 30th 2022,10:18:13 am",
+          "userName": "陆军",
+          "region": "shanghai"
+        }
+      },
+      {
+        "id": "1.4",
+        "label": "战术四",
+        "form": {
+          "name": "mac",
+          "time": "2022-07-23T02:35:25.101Z",
+          "userName": "tt",
+          "region": "guangzhou",
+          "delivery": false,
+          "type": []
+        }
+      },
+      {
+        "id": "1.5",
+        "label": "战术五"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "label": "报告二",
+    "children": [
+      {
+        "id": "2.1",
+        "label": "战术一",
+        "form": {
+          "name": "山地",
+          "time": "August 1st 2022,8:39:32 am",
+          "userName": "陆军",
+          "region": "beijing"
+        }
+      },
+      {
+        "id": "2.2",
+        "label": "战术二",
+        "form": {
+          "name": "suzhan",
+          "time": "2022-07-23T02:33:32.284Z",
+          "userName": "ui",
+          "region": "guangzhou",
+          "delivery": false,
+          "type": []
+        }
+      },
+      {
+        "id": "2.3",
+        "label": "战术三",
+        "form": {
+          "name": "闪击",
+          "time": "August 12th 2022,4:08:06 pm",
+          "userName": "陆军",
+          "region": "guangzhou"
+        }
+      },
+      {
+        "id": "2.4",
+        "label": "战术四"
+      },
+      {
+        "id": "2.5",
+        "label": "战术五"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "label": "报告三",
+    "children": [
+      {
+        "id": "3.1",
+        "label": "战术一",
+        "form": {
+          "name": "465",
+          "time": "2022-07-22T08:10:06.005Z",
+          "userName": "qw",
+          "region": "beijing",
+          "delivery": false,
+          "type": []
+        }
+      },
+      {
+        "id": "3.2",
+        "label": "战术二"
+      },
+      {
+        "id": "3.3",
+        "label": "战术三"
+      },
+      {
+        "id": "3.4",
+        "label": "战术四"
+      },
+      {
+        "id": "3.5",
+        "label": "战术五"
+      }
+    ]
+  }
+]
